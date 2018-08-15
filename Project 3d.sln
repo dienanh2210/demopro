@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 3d", "Project 3d.csproj", "{35B5A3BD-EF7A-0E2B-E796-91B94430B2E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 3d.Editor", "Project 3d.Editor.csproj", "{689F2050-7EB9-004D-9D01-44C853B779CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B5A3BD-EF7A-0E2B-E796-91B94430B2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B5A3BD-EF7A-0E2B-E796-91B94430B2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B5A3BD-EF7A-0E2B-E796-91B94430B2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B5A3BD-EF7A-0E2B-E796-91B94430B2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689F2050-7EB9-004D-9D01-44C853B779CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689F2050-7EB9-004D-9D01-44C853B779CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689F2050-7EB9-004D-9D01-44C853B779CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689F2050-7EB9-004D-9D01-44C853B779CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
